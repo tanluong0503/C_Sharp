@@ -1,0 +1,15 @@
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\bin\Debug\net7.0\metabox.exe
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\bin\Debug\net7.0\metabox.deps.json
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\bin\Debug\net7.0\metabox.runtimeconfig.json
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\bin\Debug\net7.0\metabox.dll
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\bin\Debug\net7.0\metabox.pdb
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.AssemblyInfoInputs.cache
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.AssemblyInfo.cs
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.dll
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\refint\metabox.dll
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.pdb
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\metabox.genruntimeconfig.cache
+C:\Users\nguye\Downloads\wordpress-6.2-vi\wordpress\wp-content\plugins\metabox\obj\Debug\net7.0\ref\metabox.dll
